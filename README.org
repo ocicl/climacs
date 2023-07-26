@@ -1,0 +1,10 @@
+* climacs
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/climacs/climacs.git   |
+| commit  |   |
+| systems | climacs |
+|---------+-------------------------------------------|
+
