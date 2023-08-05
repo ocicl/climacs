@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/climacs/climacs.git   |
-| commit  |   |
-| systems | climacs |
-|---------+-------------------------------------------|
+19de032---------+-------------------------------------------|
+19de032 source  | git:https://gitlab.common-lisp.net/climacs/climacs.git   |
+19de032 commit  |   |
+19de032 systems | climacs |
+19de032---------+-------------------------------------------|
 
