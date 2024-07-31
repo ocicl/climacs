@@ -4,6 +4,6 @@
 
 |---------+--------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/climacs/climacs.git |
-| commit  | 19de032                                                |
+| commit  | 2655faa                                                |
 | systems | climacs                                                |
 |---------+--------------------------------------------------------|
